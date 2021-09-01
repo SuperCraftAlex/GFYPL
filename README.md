@@ -1,4 +1,4 @@
-# GFYPL v2  and  GFYCLA v1
+# GFYPL v2<br>GFYCLA v1
 
 ## Go Fuck Yourself Private Licence / Go Fuck Yourself Contributor Licence Agreement
 
